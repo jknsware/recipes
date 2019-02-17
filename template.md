@@ -3,7 +3,7 @@
 
 #### Recipe Link
 
-[Recipe Link](https://www.google.com) - Name of recipe
+[Recipe Link](https://www.google.com)
 
 ### Ingredients List
 
