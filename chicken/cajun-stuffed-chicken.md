@@ -1,8 +1,5 @@
 # Cajun Stuffed Chicken
 
-
-#### Recipe Link
-
 [Recipe Link](https://www.delish.com/cooking/recipe-ideas/recipes/a55535/healthy-cajun-stuffed-chicken-recipe/)
 
 ### Ingredients List
