@@ -1,8 +1,5 @@
 # Recipe Title
 
-
-#### Recipe Link
-
 [Recipe Link](https://www.google.com)
 
 ### Ingredients List
