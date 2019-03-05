@@ -23,7 +23,7 @@ For the soup
 1. 3/4 cup diced celery (2 stalks), cut into 1/4 inch pieces
 1. 10 cups homemade chicken stock
 1. 1/2 cup dry white wine
-1. 1 cup small pasta such as tubetini, stars, or orzo
+1. 1 cup small pasta such as tubetini, stars, or orzo*
 1. 1/4 cup minced fresh dill
 1. 12 ounces baby spinach, washed and trimmed
 
@@ -44,3 +44,7 @@ For the soup:
 1. Taste for salt and pepper. 
 1. Stir in the fresh spinach and cook for 1 minute, until the spinach is just wilted. 
 1. Ladle into soup bowls and sprinkle each serving with extra grated Parmesan.
+
+### Notes
+
+If using orzo, only use 1/4 - 1/2 cup dry. A full cup is too much.
