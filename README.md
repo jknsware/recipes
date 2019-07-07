@@ -14,6 +14,7 @@
 
 ### Fish
 
+* [Beer Battered Fish](fish/beer-battered-fish.md)
 * [Grilled Cajun Foil Packet Salmon](fish/grilled-cajun-foil-packet-salmon.md)
 * [Salsa Simmered Fish](fish/salsa-simmered-fish.md)
 
@@ -31,6 +32,7 @@
 
 ### Sides
 
+* [Mediterranean Chickpea Salad](sides/mediterranean-chickpea-salad.md)
 * [Mexican Street Corn](sides/mexican-street-corn.md)
 
 ### Soup

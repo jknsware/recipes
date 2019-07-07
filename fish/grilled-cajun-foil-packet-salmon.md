@@ -19,7 +19,7 @@
 1. Cut a piece of aluminum foil twice as long as the salmon fillet. Place the foil on a rimmed baking sheet so half is on the baking sheet and the other half extends to the side. Place the salmon on the side of the foil that is over the baking sheet.
 1. Sprinkle the fillet liberally with salt and black pepper. Add the Cajun seasoning and garlic and rub them around evenly on the fillet. Place the lemon slices and thyme springs on top, and put blobs of ghee/butter on the fillet as well.
 1. Fold the foil over to cover the salmon and crimp the sides to form a packet.
-1. lace the packet on the grill. Cover the grill and cook for 8-12 minutes, until the thickest parts of the salmon are just barely cooked through -- or even slightly dark pink still.
+1. Place the packet on the grill. Cover the grill and cook for 8-12 minutes, until the thickest parts of the salmon are just barely cooked through -- or even slightly dark pink still.
 1. Remove the salmon, turn off the grill, and let it cool for a few minutes before serving. Serve with lemon wedges.
 
 ### Images
