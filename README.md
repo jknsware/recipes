@@ -38,6 +38,7 @@
 ### Soup
 
 * [Italian Wedding](soup/italian-wedding.md)
+* [Red Beans and Rice](soup/red-beans-and-rice.md)
 
 ### Veggies
 
