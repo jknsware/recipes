@@ -22,6 +22,7 @@
 
 * [Bacon BBQ Meatloaf with Mashed Potatoes](instant-pot/bacon-bbq-meatloaf-with-mashed-potatoes.md)
 * [Chicken Breast](instant-pot/chicken-breast.md)
+* [Ground Beef and Pasta](instant-pot/ground-beef-and-pasta.md)
 * [Instant Pot Frittata](instant-pot/instant-pot-frittata.md)
 * [Italian Beef Sandwiches](instant-pot/italian-beef-sandwiches.md)
 * [Lentil Soup](instant-pot/lentil-soup.md)
