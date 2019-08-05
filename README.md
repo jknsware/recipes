@@ -1,5 +1,11 @@
 # Recipe Collection
 
+### BBQ
+
+* [Baron's BBQ Spice](bbq/barons-bbq-spice.md)
+* [Memphis Basting Sauce](bbq/memphis-basting-sauce.md)
+* [Mustard Slather](bbq/mustard-slather.md)
+
 ### Beef
 
 * [Keto Meatloaf](beef/keto-meatloaf.md)
@@ -40,6 +46,7 @@
 
 * [Italian Wedding](soup/italian-wedding.md)
 * [Red Beans and Rice](soup/red-beans-and-rice.md)
+* [Roast Vegetable Soup](soup/roasted-vegetable-soup.md)
 
 ### Veggies
 
