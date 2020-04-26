@@ -9,11 +9,14 @@
 ### Beef
 
 * [Keto Meatloaf](beef/keto-meatloaf.md)
+* [Sloppy Joes](beef/sloppy-joes.md)
+* [Slow Cooker Shredded Balsamic Beef](beef/slow-cooker-shredded-balsamic-beef.md)
 
 ### Chicken
 
 * [Cajun Stuffed Chicken](chicken/cajun-stuffed-chicken.md)
 * [Chicken w/ Spinach, Mushrooms in Creamy Parmesaon Sauce](chicken/chicken-with-spinach-mushrooms-in-creamy-parmesaon-sauce.md)
+* [Creamy Bacon Chicken](chicken/creamy-bacon-chicken.md)
 * [Peanut Chicken Power Bowl](chicken/peanut-chicken-power-bowl.md)
 * [Slow Cooker Creamy Tuscan Garlic Chicken](chicken/slow-cooker-creamy-tuscan-garlic-chicken.md)
 * [Slow Cooker Honey Garlic Chicken Breasts](chicken/slow-cooker-honey-garlic-chicken-breasts.md)
@@ -51,3 +54,5 @@
 ### Veggies
 
 * [Cheesy Cauliflower Bake](veggies/cheesy-cauliflower-bake.md)
+* [Moroccan Spiced Chickpea Bowls](veggies/moroccan-spiced-chickpea-bowls.md)
+* [Slow Cooker Coconut Lentil Curry](veggies/slow-cooker-coconut-lentil-curry.md)
