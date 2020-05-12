@@ -38,6 +38,7 @@
 
 ### Pasta
 
+* [Lemon Ricotta Pasta](pasta/lemon-ricotta-pasta.md)
 * [Zucchini Pasta Bolognese](pasta/zucchini-pasta-bolognese.md)
 
 ### Sides

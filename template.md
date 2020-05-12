@@ -5,12 +5,12 @@
 ### Ingredients List
 
 1. Onion
-2. Pepper
+1. Pepper
 
 ### Directions
 
 1. Preheat oven
-2. Cook
+1. Cook
 
 
 ### Images
