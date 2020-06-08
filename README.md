@@ -8,6 +8,8 @@
 
 ### Beef
 
+* [Been Enchiladas](beef/beef-enchiladas.md)
+* [Hamburger Helper](beef/hamburger-helper.md)
 * [Keto Meatloaf](beef/keto-meatloaf.md)
 * [Sloppy Joes](beef/sloppy-joes.md)
 * [Slow Cooker Shredded Balsamic Beef](beef/slow-cooker-shredded-balsamic-beef.md)
@@ -38,6 +40,7 @@
 
 ### Pasta
 
+* [Crockpot Tortellini with Sausage](pasta/crockpot-tortellini-with-sausage.md)
 * [Lemon Ricotta Pasta](pasta/lemon-ricotta-pasta.md)
 * [Zucchini Pasta Bolognese](pasta/zucchini-pasta-bolognese.md)
 
