@@ -12,7 +12,7 @@
 1. 1/2 cup chicken broth
 1. 1/2 teaspoon lemon juice
 1. 1 tablespoon butter
-1. 1 cup heavy/whipping cream
+1. 1 cup heavy whipping cream
 
 ### Directions
 
