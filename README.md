@@ -20,6 +20,7 @@
 * [Chicken w/ Spinach, Mushrooms in Creamy Parmesaon Sauce](chicken/chicken-with-spinach-mushrooms-in-creamy-parmesaon-sauce.md)
 * [Creamy Bacon Chicken](chicken/creamy-bacon-chicken.md)
 * [Peanut Chicken Power Bowl](chicken/peanut-chicken-power-bowl.md)
+* [Pineapple Chicken](chicken/pineapple-chicken.md)
 * [Slow Cooker Creamy Tuscan Garlic Chicken](chicken/slow-cooker-creamy-tuscan-garlic-chicken.md)
 * [Slow Cooker Honey Garlic Chicken Breasts](chicken/slow-cooker-honey-garlic-chicken-breasts.md)
 
