@@ -18,7 +18,9 @@
 
 * [Cajun Stuffed Chicken](chicken/cajun-stuffed-chicken.md)
 * [Chicken w/ Spinach, Mushrooms in Creamy Parmesaon Sauce](chicken/chicken-with-spinach-mushrooms-in-creamy-parmesaon-sauce.md)
+* [Coconut Lime Chicken](chicken/coconut-lime-chicken.md)
 * [Creamy Bacon Chicken](chicken/creamy-bacon-chicken.md)
+* [Jambalaya](chicken/jambalaya.md)
 * [Peanut Chicken Power Bowl](chicken/peanut-chicken-power-bowl.md)
 * [Pineapple Chicken](chicken/pineapple-chicken.md)
 * [Slow Cooker Creamy Tuscan Garlic Chicken](chicken/slow-cooker-creamy-tuscan-garlic-chicken.md)
@@ -43,6 +45,7 @@
 
 * [Crockpot Tortellini with Sausage](pasta/crockpot-tortellini-with-sausage.md)
 * [Lemon Ricotta Pasta](pasta/lemon-ricotta-pasta.md)
+* [One Pan Creamy Gnocchi with Sausage](pasta/one-pan-creamy-gnocchi-with-sausage.md)
 * [Zucchini Pasta Bolognese](pasta/zucchini-pasta-bolognese.md)
 
 ### Sides
