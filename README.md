@@ -20,6 +20,7 @@
 * [Chicken w/ Spinach, Mushrooms in Creamy Parmesaon Sauce](chicken/chicken-with-spinach-mushrooms-in-creamy-parmesaon-sauce.md)
 * [Coconut Lime Chicken](chicken/coconut-lime-chicken.md)
 * [Creamy Bacon Chicken](chicken/creamy-bacon-chicken.md)
+* [Easy Chicken Piccata](chicken/easy-chicken-piccata.md)
 * [Jambalaya](chicken/jambalaya.md)
 * [Peanut Chicken Power Bowl](chicken/peanut-chicken-power-bowl.md)
 * [Pineapple Chicken](chicken/pineapple-chicken.md)
