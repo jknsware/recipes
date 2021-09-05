@@ -8,7 +8,7 @@
 
 ### Beef
 
-* [Been Enchiladas](beef/beef-enchiladas.md)
+* [Beef Enchiladas](beef/beef-enchiladas.md)
 * [Hamburger Helper](beef/hamburger-helper.md)
 * [Keto Meatloaf](beef/keto-meatloaf.md)
 * [Sloppy Joes](beef/sloppy-joes.md)
