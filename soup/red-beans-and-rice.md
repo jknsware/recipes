@@ -11,7 +11,7 @@
 1. 3 bay leaves
 1. 1/2 tsp cayenne pepper
 1. 3 green onions, chopped
-1. Sale
+1. Salt
 1. Freshly ground black pepper
 1. Tabasco
 1. 3 cups cooked white rice
