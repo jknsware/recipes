@@ -16,6 +16,7 @@
 
 ### Chicken
 
+* [Buffalo Chicken Pasta](chicken/buffalo-chicken-pasta.md)
 * [Cajun Stuffed Chicken](chicken/cajun-stuffed-chicken.md)
 * [Chicken w/ Spinach, Mushrooms in Creamy Parmesan Sauce](chicken/chicken-with-spinach-mushrooms-in-creamy-parmesaon-sauce.md)
 * [Coconut Lime Chicken](chicken/coconut-lime-chicken.md)
