@@ -1,5 +1,8 @@
 # Recipe Collection
 
+### Appetizers
+* [Cranberry Whipped Feta Dip](appetizers/cranberry-whipped-feta-dip.md)
+
 ### BBQ
 
 * [Baron's BBQ Spice](bbq/barons-bbq-spice.md)
