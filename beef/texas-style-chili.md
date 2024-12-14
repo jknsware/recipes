@@ -15,7 +15,7 @@
 1. 5 ounces jarred jalapenos with juice
 1. Dash ginger
 1. Dash nutmeg
-1. 1 teaspong white pepper
+1. 1 teaspoon white pepper
 1. 1 tablespoon chipotle powder
 1. 7 cups beef broth, divided into 5 cups and 2 cups
 1. Salt and pepper to taste
