@@ -16,6 +16,7 @@
 * [Keto Meatloaf](beef/keto-meatloaf.md)
 * [Sloppy Joes](beef/sloppy-joes.md)
 * [Slow Cooker Shredded Balsamic Beef](beef/slow-cooker-shredded-balsamic-beef.md)
+* [Texas Style Chili](beef/texas-style-chili.md)
 
 ### Chicken
 
